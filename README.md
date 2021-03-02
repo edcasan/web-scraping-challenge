@@ -27,4 +27,7 @@ Used MongoDB with Flask templating to create a new HTML page that displays all o
 - Stroed the return value in Mongo as a Python dictionary.,
 - Created a root route / that will query your Mongo database and pass the mars data into an HTML template to display the data.
 
+![image](https://user-images.githubusercontent.com/63757160/109666738-17efb280-7b35-11eb-88fa-aaedbc732fa0.png)
+
+![image](https://user-images.githubusercontent.com/63757160/109666793-250ca180-7b35-11eb-82dd-d6ccf331ee1e.png)
 
