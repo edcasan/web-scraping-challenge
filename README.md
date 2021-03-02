@@ -4,7 +4,6 @@ Scraping
 Using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
 
 Created a Jupyter Notebook file called mission_to_mars.ipynb and used this to complete all of your scraping and analysis tasks. Scrape the NASA Mars News Site and collect the latest News Title and Paragraph Text.
-
 - JPL Mars Space Images - Featured Image,
 - Visited the url for JPL Featured Space Image here,
 - Used splinter to navigate the site and find the image url for the current Featured Mars Image and assign the url string to a variable called featured_image_url.
